@@ -1,3 +1,5 @@
+LUCAS LESENS & VINCENT ARSON
+
 # Terraform - Infrastructure locale Docker
 
 > **Projet Terraform** réalisé dans le cadre du cours d'Infrastructure as Code.  
@@ -250,7 +252,7 @@ Paramétrage centralisé : nom du projet, ports, credentials DB.
 - [MariaDB Docker](https://hub.docker.com/_/mariadb)
 - [Terraform Best Practices](https://www.terraform-best-practices.com/)
 
-## 👤 Auteur
+## 👤 Auteurs
 
-**Lucas LESENS** (Flitz-Ouille)
+**Lucas LESENS & Vincent ARSON**
 Projet réalisé dans le cadre du cours Terraform - Décembre 2025
