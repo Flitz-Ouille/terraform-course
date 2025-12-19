@@ -1,0 +1,6 @@
+project_name      = "mon-projet-terraform"
+web_port          = 80
+db_root_password  = "ChangeMeRoot!"
+db_name           = "appdb"
+db_user           = "appuser"
+db_password       = "ChangeMePassword!"
